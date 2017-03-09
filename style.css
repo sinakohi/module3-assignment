@@ -1,0 +1,60 @@
+* {
+  box-sizing: border-box;
+  color: black !important;
+}
+
+body, html {
+  font-family: Impact, Charcoal, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+#header {
+  background-color: lightgreen;
+  border-radius: 0;
+}
+#bs-example-navbar-collapse-1 {
+  background-color: lightgreen;
+}
+#brand {
+  font-size: 2em;
+}
+#button {
+  background-color: rgba(0, 128, 0, 0.5);
+  border-color: black;
+}
+#button:hover {
+  background-color: green;
+}
+span {
+  background-color: black !important;
+}
+li:hover {
+  background-color: green;
+  color: white !important;
+}
+
+h1{
+  margin: 50px;
+     text-shadow: 1px 1px blue;
+}
+#jum {
+  margin-left: 8.33%;
+  margin-right: 8.33%;
+  padding: 30px;
+  background-color: lightgreen;
+  border-radius: 9px;
+  box-shadow: 1px 5px 8px 2px black;
+}
+#back-top{
+  background-color: lightgreen;
+  margin-left: 38%;
+  margin-right: 38%;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+}
+#back-top:hover {
+  background-color: green;
+}
+a {
+  text-decoration: none !important;
+}
